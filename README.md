@@ -78,11 +78,11 @@ Looking further ahead, my long-term goals include:
 ## Let's Connect! 🤝:
 
 - **I am always open to connecting with fellow cybersecurity enthusiasts, professionals, and mentors. If you share similar interests or have valuable insights to offer, feel free to reach out! Let's collaborate to build a secure and resilient digital future.**
-
+**Email:** [arvin.hashemi.m@gmail.com](mailto:arvin.hashemi.m@gmail.com)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]:https://www.instagram.com/rvin_h2/?hl=en
 [linkedin]: https://www.linkedin.com/in/arvin-hashemi-mehr-0b7297189/
 
-[✉](arvin.hashemi.m@gmail.com)
+
